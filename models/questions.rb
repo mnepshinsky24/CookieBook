@@ -5,5 +5,7 @@ def cookie_chooser(user_value)
     "trailmix"
  elsif user_value <10
     "chocolatey"
+ else 
+  puts "Sorry please submit another request" 
 end
 end
